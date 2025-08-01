@@ -9,6 +9,8 @@ export const props = [
     lineWidth: 2,
     borderColor: 'hsl(350, 20%, 40%)',
     borderWidth: 4,
+    rotationResistance: -200,
+    rotationSpeedMax: 250,
     items: [
       {
         image: './img/logo.webp',
